@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   Hi, I'm Avinash S, Aspiring Computer Science Engineer from India
   <br>
   <br>
-  🔬 I'm currently studying for a bachelor's degree in Amrita School of Engineering, Bengaluru
+  🔬 I'm currently working as an associate applications developer in Oracle, Bengaluru
   <br>
   💻 I love developing applications for ease of work . .
   <br>
