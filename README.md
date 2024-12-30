@@ -30,9 +30,11 @@ Here are some ideas to get you started:
   <code><a href="https://www.twitter.com/kingaiva_" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
 </h5>
 
+<h3 align=center>📖 <a href="https://avinashsubhash.github.io/tekpeek" title="TekPeek Blogs">TekPeek Blogs</a><br>
+Explore my technical blogs, tools, and useful resources from around the web!
+</h3>
 <p align="center">
   Hi, I'm Avinash S, Aspiring Computer Science Engineer from India
-  <br>
   <br>
   🔬 I'm currently working as an associate applications developer in Oracle, Bengaluru
   <br>
