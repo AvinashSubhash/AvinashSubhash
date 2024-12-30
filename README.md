@@ -30,10 +30,8 @@ Here are some ideas to get you started:
   <code><a href="https://www.twitter.com/kingaiva_" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
 </h5>
 
-<h3 align=center>📖 <a href="https://avinashsubhash.github.io/tekpeek" title="TekPeek Blogs">TekPeek Blogs</a><br>
-Explore my technical blogs, tools, and useful resources from around the web!
-</h3>
 <p align="center">
+  <h3 align="center">
   Hi, I'm Avinash S, Aspiring Computer Science Engineer from India
   <br>
   🔬 I'm currently working as an associate applications developer in Oracle, Bengaluru
@@ -42,17 +40,20 @@ Explore my technical blogs, tools, and useful resources from around the web!
   <br>
   📚 I’m currently learning Java Essentials.
   <br>
-
+</h3>
+  <h3 align=center>📖 <a href="https://avinashsubhash.github.io/tekpeek" title="TekPeek Blogs">TekPeek Blogs</a><br>
+Explore my technical blogs, tools, and useful resources from around the web!
+</h3>
  <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashSubhash&theme=react&border=61dafb&hide_border=true" alt="AvinashSubhash" />
+      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashSubhash&theme=react&border=61dafb&hide_border=true" alt="AvinashSubhash" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <!--<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AvinashSubhash&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+    </a>-->
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
@@ -62,5 +63,5 @@ Explore my technical blogs, tools, and useful resources from around the web!
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AvinashSubhash&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=AvinashSubhash&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
