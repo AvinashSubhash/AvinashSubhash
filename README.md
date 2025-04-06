@@ -38,8 +38,6 @@ Here are some ideas to get you started:
   <br>
   💻 I love developing applications for ease of work . .
   <br>
-  📚 I’m currently learning Java Essentials.
-  <br>
 </h3>
   <h3 align=center>📖 <a href="https://avinashsubhash.github.io/tekpeek" title="TekPeek Blogs">TekPeek Blogs</a><br>
 Explore my technical blogs, tools, and useful resources from around the web!
