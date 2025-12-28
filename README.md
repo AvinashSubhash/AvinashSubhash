@@ -1,45 +1,71 @@
-### <h3 align=center>Welcome to my GithubPage</h3>
+<div align="center">
+  <h1>Avinash S</h1>
+  <h3>Software Engineer | Cloud & DevOps Enthusiast</h3>
+  <p><i>Building scalable solutions and exploring the future of cloud computing.</i></p>
 
-<!--
-**AvinashSubhash/AvinashSubhash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
 
-Here are some ideas to get you started:
+  <a href="https://www.linkedin.com/in/avinash-s-07551a1a0/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:avinashsubhash19@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.twitter.com/kingaiva_" title="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAvinashSubhash%2F&countColor=%23263759">
+<br>
 <hr>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;This+is+Avinash+S;&center=true&size=30">
-  </a>
-</h1>
+<div align="center">
 
-<h5 align="center">
-    <code><a href="https://www.linkedin.com/in/avinash-s-07551a1a0/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/kingaiva/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.twitter.com/kingaiva_" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-</h5>
+### 👨‍💻 Professional Summary
+<div align="justify">
+  I am a <b>Software Engineer</b> currently working as an <b>Associate Applications Developer</b> at <b>Oracle</b>, Bengaluru. With a strong foundation in Computer Science, I am deeply passionate about <b>Cloud Computing</b>, <b>Microservices Architecture</b>, and <b>DevOps</b> practices. I thrive on solving complex problems and developing applications that streamline workflows and enhance user productivity. My goal is to leverage technology to build robust, scalable systems that drive innovation.
+</div>
 
-<p align="center">
-  <h3 align="center">
-  Hi, I'm Avinash S, Aspiring Computer Science Engineer from India
-  <br>
-  🔬 I'm currently working as an associate applications developer in Oracle, Bengaluru
-  <br>
-  💻 I love developing applications for ease of work . .
-  <br>
-</h3>
-  <h3 align=center>📖 <a href="https://avinashsubhash.github.io/tekpeek" title="TekPeek Blogs">TekPeek Blogs</a><br>
-Explore my technical blogs, tools, and useful resources from around the web!
-</h3>
 <br>
+
+### 🛠️ Technical Arsenal
+
+| Category | Skills |
+| :---: | :---: |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Cloud & DevOps** | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Tools & Frameworks**| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+<br>
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/tekpeek" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/TekPeek_DevOps-100000?style=for-the-badge&logo=github&logoColor=white" height="40" />
+      </a>
+      <br><br>
+      <b>TekPeek Organization</b><br>
+      <div align="justify">
+        A public GitHub organization hosting all my DevOps experiments and projects.
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://avinashsubhash.github.io/tekpeek" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/TekPeek_Blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="40" />
+      </a>
+      <br><br>
+      <b>TekPeek Blogs</b><br>
+      <div align="justify">
+        My technical blog where I document my learning journey, share tutorials, and discuss industry trends.
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAvinashSubhash%2F&countColor=%23263759" alt="visitor badge"/>
+
+</div>
