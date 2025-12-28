@@ -23,7 +23,7 @@
 
 ### 👨‍💻 Professional Summary
 <div align="justify">
-  I am a **Software Engineer** currently working as an **Associate Applications Developer** at **Oracle**, Bengaluru. With a strong foundation in Computer Science, I am deeply passionate about **Cloud Computing**, **Microservices Architecture**, and **DevOps** practices. I thrive on solving complex problems and developing applications that streamline workflows and enhance user productivity. My goal is to leverage technology to build robust, scalable systems that drive innovation.
+  I am a <b>Software Engineer</b> currently working as an <b>Associate Applications Developer</b> at <b>Oracle</b>, Bengaluru. With a strong foundation in Computer Science, I am deeply passionate about <b>Cloud Computing</b>, <b>Microservices Architecture</b>, and <b>DevOps</b> practices. I thrive on solving complex problems and developing applications that streamline workflows and enhance user productivity. My goal is to leverage technology to build robust, scalable systems that drive innovation.
 </div>
 
 <br>
@@ -46,7 +46,9 @@
       </a>
       <br><br>
       <b>TekPeek Organization</b><br>
-      A public GitHub organization hosting all my DevOps experiments and projects.
+      <div align="justify">
+        A public GitHub organization hosting all my DevOps experiments and projects.
+      </div>
     </td>
     <td width="50%" align="center">
       <a href="https://avinashsubhash.github.io/tekpeek" style="text-decoration:none;">
@@ -54,7 +56,9 @@
       </a>
       <br><br>
       <b>TekPeek Blogs</b><br>
-      My technical blog where I document my learning journey, share tutorials, and discuss industry trends.
+      <div align="justify">
+        My technical blog where I document my learning journey, share tutorials, and discuss industry trends.
+      </div>
     </td>
   </tr>
 </table>
