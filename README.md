@@ -22,7 +22,9 @@
 <div align="center">
 
 ### 👨‍💻 Professional Summary
-I am a **Software Engineer** currently working as an **Associate Applications Developer** at **Oracle**, Bengaluru. With a strong foundation in Computer Science, I am deeply passionate about **Cloud Computing**, **Microservices Architecture**, and **DevOps** practices. I thrive on solving complex problems and developing applications that streamline workflows and enhance user productivity. My goal is to leverage technology to build robust, scalable systems that drive innovation.
+<div align="justify">
+  I am a **Software Engineer** currently working as an **Associate Applications Developer** at **Oracle**, Bengaluru. With a strong foundation in Computer Science, I am deeply passionate about **Cloud Computing**, **Microservices Architecture**, and **DevOps** practices. I thrive on solving complex problems and developing applications that streamline workflows and enhance user productivity. My goal is to leverage technology to build robust, scalable systems that drive innovation.
+</div>
 
 <br>
 
