@@ -47,15 +47,6 @@ My technical blog where I document my learning journey, share tutorials, and dis
 
 <br>
 
-### 📊 GitHub Analysis
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvinashSubhash&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashSubhash&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAvinashSubhash%2F&countColor=%23263759" alt="visitor badge"/>
 </div>
