@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Avinash S</h1>
-  <h3>Software Engineer | Cloud & DevOps Enthusiast</h3>
-  <p><i>Building scalable solutions and exploring the future of cloud computing.</i></p>
+  <h3>CMU Master’s Student | Software Engineer</h3>
+  <p><i>Exploring secure AI, distributed systems, and cloud infrastructure.</i></p>
 
   <br>
 
@@ -23,18 +23,25 @@
 
 ### 👨‍💻 Professional Summary
 <div align="justify">
-  I am a <b>Software Engineer</b> currently working as an <b>Associate Applications Developer</b> at <b>Oracle</b>, Bengaluru. With a strong foundation in Computer Science, I am deeply passionate about <b>Cloud Computing</b>, <b>Microservices Architecture</b>, and <b>DevOps</b> practices. I thrive on solving complex problems and developing applications that streamline workflows and enhance user productivity. My goal is to leverage technology to build robust, scalable systems that drive innovation.
+  I’m pursuing a <b>master’s in AI Engineering and Security</b> at <b>Carnegie Mellon University</b> and previously worked as a software engineer at <b>Oracle</b>. I’m interested in building reliable systems, from <b>cloud infrastructure</b> and <b>distributed computing</b> to <b>secure AI</b> and machine learning. Through TekPeek, I explore DevOps tools and share what I learn.
 </div>
 
 <br>
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Skills
 
 | Category | Skills |
 | :---: | :---: |
 | **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 | **Cloud & DevOps** | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Tools & Frameworks**| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+<br>
+
+### 🚀 Featured Projects
+
+- [**StockFlow**](https://github.com/tekpeek/stockflow) — An automated stock analysis platform built with a microservice architecture and deployed on Kubernetes.
+- [**Kubesnap**](https://github.com/tekpeek/kubesnap) — A tool for capturing Kubernetes resource and log snapshots and pushing them to object storage.
 
 <br>
 
@@ -47,7 +54,7 @@
       <br><br>
       <b>TekPeek Organization</b><br>
       <div align="justify">
-        A public GitHub organization hosting all my DevOps experiments and projects.
+        A public GitHub organization hosting my DevOps experiments and projects.
       </div>
     </td>
     <td width="50%" align="center">
